@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/screenshot"
 summary: Local desktop screenshots of a region, display, window or all displays, with delay, HiDPI output, annotation, undo, copy, save, pin, hotkeys, tray and CLI; no network by default.
 license: CC-BY-4.0
+tags: [desktop, productivity]
 derived_from:
   repo: https://github.com/flameshot-org/flameshot
   commit: 2cd9ad7849d98092684bfbedead413a019c7dc75
